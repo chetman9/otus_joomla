@@ -1,5 +1,0 @@
-<VirtualHost *:8080>
-        ServerAdmin user@localhost
-        DocumentRoot /var/www/html/joomla
-        ServerName <strong>wp.ru</strong>
-</VirtualHost>
